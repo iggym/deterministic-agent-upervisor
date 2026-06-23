@@ -1,5 +1,3 @@
-
-```markdown
 # 🤖 Deterministic Agent Supervisor (DAS)
 
 > **State-Machine-Constrained Multi-Agent Engine with Structured Anthropic Outputs.**
@@ -184,4 +182,3 @@ Distributed under the **MIT License**.
 
 ```
 
-```
